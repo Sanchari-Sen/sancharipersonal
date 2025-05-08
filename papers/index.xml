@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Sanchari Sen</title>
+    <link>https://sanchari-sen.github.io/sancharipersonal/papers/</link>
+    <description>Recent content in Research on Sanchari Sen</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sanchari-sen.github.io/sancharipersonal/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stars- One and All</title>
+      <link>https://sanchari-sen.github.io/sancharipersonal/papers/paper1/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanchari-sen.github.io/sancharipersonal/papers/paper1/</guid>
+      <description>From the dynamics and internal structure of stars, to solar observations and understanding the elememtal synthesis via nuclear processes</description>
+    </item>
+    <item>
+      <title>Nuclear Astrophysics</title>
+      <link>https://sanchari-sen.github.io/sancharipersonal/papers/paper2/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanchari-sen.github.io/sancharipersonal/papers/paper2/</guid>
+      <description>Studying experimental nuclear physics aimed at understanding nuclear structure and reaction mechanisms relevant to astrophysical processes.</description>
+    </item>
+    <item>
+      <title>Cosmology</title>
+      <link>https://sanchari-sen.github.io/sancharipersonal/papers/paper3/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanchari-sen.github.io/sancharipersonal/papers/paper3/</guid>
+      <description>Non GTR Newtonian approach and signal processing in Radio Astronomy</description>
+    </item>
+  </channel>
+</rss>
